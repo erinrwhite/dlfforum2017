@@ -35,3 +35,9 @@ Diego from [Metro](http://metro.org/) as a connector for communications across l
 ### text session i didn't go to
 
 [Fanzines at Iowa](http://digital.lib.uiowa.edu/cdm/search/mode/all/?searchterm=hevelin)
+
+### [Community History and Public Work: New Voices in Digital Libraries](https://dlfforum2017.sched.com/event/Bzsz/t6b-community-history-and-public-work-new-voices-in-digital-libraries?iframe=yes&w=100%&sidebar=no&bg=no#)
+
+[Recollection studio](http://carnegielibrary.org/recollection) at Carnegie Library. DIY lab available by appointment, need to bring storage device. Flatbeds and AV transfer units. 2 stations per appointment time. Lab supervisor available; no library card needed.
+
+[#archivesinpublic manifesto](https://jaimemears.wordpress.com/2016/07/29/doing-digital-archives-in-public-manifesto/)
