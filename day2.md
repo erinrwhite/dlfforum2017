@@ -38,6 +38,13 @@ Diego from [Metro](http://metro.org/) as a connector for communications across l
 
 ### [Community History and Public Work: New Voices in Digital Libraries](https://dlfforum2017.sched.com/event/Bzsz/t6b-community-history-and-public-work-new-voices-in-digital-libraries?iframe=yes&w=100%&sidebar=no&bg=no#)
 
-[Recollection studio](http://carnegielibrary.org/recollection) at Carnegie Library. DIY lab available by appointment, need to bring storage device. Flatbeds and AV transfer units. 2 stations per appointment time. Lab supervisor available; no library card needed.
+[Recollection studio](http://carnegielibrary.org/recollection) at Carnegie Library. DIY lab available by appointment, need to bring storage device. Flatbeds and AV transfer units. 2 stations per appointment time. Lab supervisor available; no library card needed. Outreach included web and handouts for folks to take away.
 
 [#archivesinpublic manifesto](https://jaimemears.wordpress.com/2016/07/29/doing-digital-archives-in-public-manifesto/)
+
+[Community scanning toolkit](http://history.colapublib.org/) - county of Los Angeles public library; roaming toolkit for community scanning events. Components: procedures docs, incentives, education and outreach materials, marketing templates, training, metadata guidelines.
+
+[Memory Lab Network](https://www.dclibrary.org/memorylabnetwork) - DCPL won an IMLS grant to seed 7 memory labs in public libraries across the U.S.
+
+Making Native American History available - Indian Education Act for All sprung out of some misguided work in the area before. 
+
