@@ -42,4 +42,16 @@ Communicate often: internal folks want to understand where projects are in the q
 
 Benefits take time: invest first, payoff comes later; increased capacity comes with increased admin strain
 
-Tools: org support; equipment and people; risk tolerance; project evaluation criteria 
+Tools: org support; equipment and people; risk tolerance; project evaluation
+
+### closing plenary
+
+government records transparency/accountability and endangered data week
+
+dlf/[hbcu library alliance](http://www.hbculibraries.org/) partnership as a way to circumvent digital divide between higher education institutions
+
+@ruthbrarian on labor, [guidelines for ethically-scoped term-limited grant positions](https://docs.google.com/document/d/11CCfPxBZ2knUSkoo2J17ypJA7gZiyb9M-mg_FD9EKh0/edit)
+
+DLF-AIG working group on cultural assessment/inclusive curation - Themba Flowers
+
+DLF/Internet Archive partnerships and open libraries
